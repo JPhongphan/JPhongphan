@@ -20,6 +20,7 @@ I've been learning React.js for Front-End Developer
 </p>
 
 ### Skills | Programing Language
+
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>&nbsp;
 <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
@@ -40,4 +41,9 @@ I've been learning React.js for Front-End Developer
 </p>
 
 ### Badges
+
 <b>My GitHub Stats</b>
+
+<a href="http://www.github.com/JPhongphan"><img src="https://github-readme-stats.vercel.app/api?username=JPhongphan&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=14b8a6&bg_color=171717&hide_border=true&show_icons=true" alt="JPhongphan's GitHub stats" /></a>
+
+<a href="https://github.com/JPhongphan" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JPhongphan&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=14b8a6&bg_color=171717&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
